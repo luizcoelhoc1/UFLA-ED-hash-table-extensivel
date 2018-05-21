@@ -10,7 +10,10 @@
  * mexer na insercao 1 < inserir ordenado
  * implementar busca 3 < binaria (precisa ordenar) ou sequencial
  * DESCOBRIR PRA QUE QUE SERVE BINARIO
- * 
+ * RELATORIO <<<<<<<<<<<<<<<<<<<<<<<-
+ * ESCREVER CABECALHO NOS HEADERS
+ * EXPLICANDO FUNCOES
+ * COMENTARIOS
  */
 
 int main() {
