@@ -2,13 +2,15 @@
 #include <iostream>
 #include "hash.hpp"
 
-/* TODO
+/* 
+ * TODO
  * implementar arquivo < importante
  * mexer na impressao 4 < imprimir na ordem de insercao / armazenamento
  * criar impressao 5 < ordenada em um bloco
  * mexer na insercao 1 < inserir ordenado
  * implementar busca 3 < binaria (precisa ordenar) ou sequencial
  * DESCOBRIR PRA QUE QUE SERVE BINARIO
+ * 
  */
 
 int main() {

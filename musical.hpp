@@ -1,6 +1,8 @@
 #ifndef MUSICAL_HPP_
 #define MUSICAL_HPP_
 
+#include "config.hpp"
+
 class objeto {
 friend class hash;
 friend class bloco;
