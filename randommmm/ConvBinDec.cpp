@@ -14,6 +14,19 @@ int funcaoHash(int id){
     return binario(resto);
 }
 
+
+//transforma de binario para decimal, não usar o 0 na frente se não vira octal
+int decimal (int n) {
+    int result = 0;
+    int i = 0;
+    while (n != 0) {
+        result += ((int) n % 10) * pow(2, i);
+        n /= 10;
+        i++;
+    }
+    return result;
+}
+
 int main (){
 	int n;
 	cin >> n;
